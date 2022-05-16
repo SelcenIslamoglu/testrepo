@@ -1,2 +1,2 @@
 # testrepo
-initial encounter
+initial repository
